@@ -1,16 +1,18 @@
-### Hi there 👋
+Hello! I'm Rapter, a passionate Full Stack Developer and content creator. With a knack for both coding and creative expression, I find joy in crafting digital solutions and sharing my knowledge with the world. When I'm not immersed in lines of code, you can find me gaming, where the virtual realms become my playground. Join me on my journey as I blend the worlds of technology, creativity, and gaming in the ever-evolving landscape of the digital realm! 🚀🎮💻
 
-<!--
-**Rapter001/Rapter001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Languages & tools
 
-Here are some ideas to get you started:
+![Languages & Tools](https://skillicons.dev/icons?i=html,css,js,php,python,flask,vscode,linux,discord)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🌟 Project Highlights
+
+1. **Tranzy chat (coming soon)**
+   - **Description:** translating web chat
+
+## Connect with me
+
+Feel free to reach out! You can find me here:
+
+- Visit my website: https://rapter.42web.io
+- Chat with me on Discord: @Rapter001
