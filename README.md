@@ -4,12 +4,6 @@ Hello! I'm Rapter, a passionate Full Stack Developer and content creator. With a
 
 ![Languages & Tools](https://skillicons.dev/icons?i=html,css,js,php,python,flask,vscode,linux,discord)
 
-
-## 🌟 Project Highlights
-
-1. **Tranzy chat (coming soon)**
-   - **Description:** translating web chat
-
 ## Connect with me
 
 Feel free to reach out! You can find me here:
