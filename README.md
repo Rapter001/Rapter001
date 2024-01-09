@@ -2,7 +2,7 @@ Hello! I'm Rapter, a passionate Full Stack Developer and content creator. With a
 
 ## 🔧 Languages & tools
 
-![Languages & Tools](https://skillicons.dev/icons?i=html,css,js,php,python,flask,vscode,linux,discord)
+![Languages & Tools](https://skillicons.dev/icons?i=html,css,js,php,python,flask,vscode,linux)
 
 ## Connect with me
 
