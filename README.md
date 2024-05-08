@@ -6,7 +6,7 @@ Yo! I go by the name Rapter – a coding maestro and creative conjurer. I live f
 
 Behold the arsenal of spells I wield:
 
-![Tech Wizardry & Linguistic Alchemy]([https://rapter.pages.dev/img/icons/html.svg](https://skillicons.dev/icons?i=html,css,js,php,python,flask,vscode,linux,cloudflare,docker,github,git,nginx,wndows))
+![Tech Wizardry & Linguistic Alchemy](https://rapter.pages.dev/img/icons/html.svg](https://skillicons.dev/icons?i=html,css,js,php,python,flask,vscode,linux,cloudflare,docker,github,git,nginx,wndows))
 
 ## 🌐 Get in Touch Across Galaxies
 
