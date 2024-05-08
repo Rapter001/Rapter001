@@ -20,7 +20,6 @@ Behold the arsenal of spells I wield:
 ![GitHub](https://rapter.pages.dev/img/icons/github.svg)
 ![Git](https://rapter.pages.dev/img/icons/git.svg)
 ![Nginx](https://rapter.pages.dev/img/icons/nginx.svg)
-![Ubuntu](https://rapter.pages.dev/img/icons/ubuntu.svg)
 ![Windows](https://rapter.pages.dev/img/icons/windows.svg)
 
 ## 🌐 Get in Touch Across Galaxies
