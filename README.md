@@ -8,6 +8,8 @@ Behold the arsenal of spells I wield:
 
 ![Tech Wizardry & Linguistic Alchemy](https://skillicons.dev/icons?i=html,css,js,php,python,flask,sqlite,vscode,linux,cloudflare,docker,github,git,nginx,windows)
 
+![python Web Chat](https://status.rapter.pro/api/badge/9/status)
+
 ## 🌐 Get in Touch Across Galaxies
 
 Feel the cosmic vibes and drop me a line! You can locate me through:
