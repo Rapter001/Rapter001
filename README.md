@@ -13,4 +13,4 @@ Behold the arsenal of spells I wield:
 Feel the cosmic vibes and drop me a line! You can locate me through:
 
 - Explore the wonders of my website: [Rapter's Digital Haven](https://rapter.pages.dev)
-- Engage in otherworldly conversations on Discord: @Rapter001
+- Engage in otherworldly conversations using my email: rapter001yt@gmail.com
