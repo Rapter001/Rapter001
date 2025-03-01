@@ -15,4 +15,3 @@ Feel the cosmic vibes and drop me a line! You can locate me through:
 - Explore the wonders of my website: [Rapter's Digital Haven](https://rapter.pages.dev)
 - Engage in otherworldly conversations using my email: support@rapter.is-a.dev
 - 
-[![Service Status](http://status.rapter.is-a.dev/api/badge/31/status)](http://status.rapter.is-a.dev)
