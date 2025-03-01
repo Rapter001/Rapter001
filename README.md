@@ -15,4 +15,4 @@ Feel the cosmic vibes and drop me a line! You can locate me through:
 - Explore the wonders of my website: [Rapter's Digital Haven](https://rapter.pages.dev)
 - Engage in otherworldly conversations using my email: support@rapter.is-a.dev
 
-![Service Status]([https://your-uptime-kuma-instance/api/badge/your-service-id/status.svg](http://status.rapter.is-a.dev/api/badge/31/status)
+![Service Status](https://your-uptime-kuma-instance/api/badge/your-service-id/status.svg](http://status.rapter.is-a.dev/api/badge/31/status)
